@@ -26,12 +26,12 @@ public class Cat extends Predator{
 
     @Override
     public String sleep() {
-        return "I'm sleeping. Don't touch me";
+        return "I am sleeping. Don't touch me";
     }
 
     @Override
     public String hunt() {
-        return "I'm hunting right now";
+        return "I am hunting right now";
     }
 
     public String tigidik() {
